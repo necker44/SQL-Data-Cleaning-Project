@@ -157,6 +157,30 @@ This project demonstrates how SQL can be used throughout the analytics lifecycle
 * Support strategic decision making using data
 
 ---
+# Screen Shots
+
+## Original Dataset
+<img width="1007" height="474" alt="image" src="https://github.com/user-attachments/assets/47bb75a4-1947-4dce-917c-42922b771096" />
+
+## Duplicate Removal
+<img width="1091" height="497" alt="image" src="https://github.com/user-attachments/assets/e57e7fbb-8761-4bc7-8e5a-2ffe7cb991cb" />
+
+## Cleaned Dataset
+<img width="1097" height="496" alt="image" src="https://github.com/user-attachments/assets/79b525ff-d1c9-43cb-8eaa-10fe81ecb1ae" />
+
+## Layoffs By Company
+<img width="272" height="475" alt="image" src="https://github.com/user-attachments/assets/3ffa6f2c-c127-4d6a-9597-17c75a8ab5e8" />
+
+## Layoffs By Industry
+<img width="335" height="479" alt="image" src="https://github.com/user-attachments/assets/222e63dc-1dc5-4780-9a4f-8e0a092c673a" />
+
+## Rolling Total
+<img width="274" height="477" alt="image" src="https://github.com/user-attachments/assets/4d40994d-2579-464a-bb7d-8f0fbb66101e" />
+
+## Yearly Trends
+<img width="360" height="475" alt="image" src="https://github.com/user-attachments/assets/5db3fda8-71ba-4afe-839f-588266935541" />
+
+
 
 # Tools Used
 
